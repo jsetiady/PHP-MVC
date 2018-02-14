@@ -2,7 +2,7 @@
 
 	<head></head>
 	<body>
-
+            <a href="addBarang.php">Tambah Barang</a>
 			<table border="1px">
 				<tr>
 					<th>id</th>
