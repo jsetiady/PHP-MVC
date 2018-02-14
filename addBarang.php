@@ -5,7 +5,7 @@
 
 
 <h3>Tambah Barang</h3>
-<form name="addBarang" method="post">
+<form name="addBarang" method="post" action="add.php">
 <table>
 
     <tr>
