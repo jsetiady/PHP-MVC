@@ -2,6 +2,7 @@
 
 	<head></head>
 	<body>
+            <span id="message"><?php echo $_GET['message'];?></span><br/>
             <a href="addBarang.php">Tambah Barang</a>
 			<table border="1px">
 				<tr>
