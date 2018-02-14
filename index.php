@@ -22,6 +22,12 @@
 <?php
 
 
-echo "";
+/*
+Step by step:
+1. Connect ke database
+2. Select data dari database, tampilkan ke layar
+
+*/
+
 
 ?>
